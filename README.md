@@ -1,6 +1,9 @@
 <p align="center">
   <img src="banner.png" alt="Inc. 5000 Business Analytics Banner" width="75%">
 </p>
+
+---
+
 # 📈 Inc. 5000 Business Analytics | Excel + Python
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
