@@ -1,5 +1,4 @@
-![Banner](https://github.com/kunalydv-2000/Inc.-5000-Business-Analytics/blob/f4601c14cebb98a67bfceebb1efdc087808d6e3e/Inc.%205000%20Business%20Analytics/project%20banner.png)
-
+![Banner](https://github.com/kunalydv-2000/Inc.-5000-Business-Analytics/blob/a8fc91074c308b6f3d3f4696a54838576ada0d52/banner.png)
 # 📈 Inc. 5000 Business Analytics | Excel + Python
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
